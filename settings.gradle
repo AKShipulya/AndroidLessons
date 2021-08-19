@@ -8,6 +8,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Android Lessons"
 include ':app'
-include ':firstproject'
-include ':basicviews'
-include ':constraintlayoutintro'
+include ':p0031firstproject'
+include ':p0041basicviews'
+include ':p0180constraintlayoutintro'
+include ':p0051layoutfiles'
